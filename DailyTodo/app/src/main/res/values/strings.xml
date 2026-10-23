@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">每日待办</string>
+    <string name="widget_desc">今日任务清单，点一下即可勾选</string>
+    <color name="icon_bg">#2F6B4F</color>
+</resources>
